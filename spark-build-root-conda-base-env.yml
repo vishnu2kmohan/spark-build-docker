@@ -1,0 +1,11 @@
+name: root
+channels:
+- conda-forge
+- defaults
+dependencies:
+- awscli
+- curl
+- cython
+- ipython
+- pandas
+- s3fs
